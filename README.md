@@ -12,13 +12,13 @@
   
 ## 下载链接
 
-  链接：https://pan.baidu.com/s/1raMrbCy5TeVo7XgZc59wdQ?pwd=paru 
+  链接：https://pan.baidu.com/s/1xraXqZ8AfE7fPg42j01TSg 
 
-  提取码：paru 
+  提取码：x6tg
+
   
   在Windows环境下，下载后解压，点击app.exe即可使用。
 
-  
 
 
 
