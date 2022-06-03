@@ -16,9 +16,9 @@
   
 ## 下载链接
 
-  链接：https://pan.baidu.com/s/1xraXqZ8AfE7fPg42j01TSg 
-
-  提取码：x6tg
+  链接：https://pan.baidu.com/s/1mVG9xd9qbOGfgsB7CF6JIw 
+  
+  提取码：1234
 
   
   在Windows环境下，下载后解压，点击app.exe即可使用。
