@@ -1,7 +1,11 @@
 # English_books_classification_Program
-英文文献的《中国图书馆分类法》自动标注小程序。帮助中国图书馆更方便地整理、管理英文图书文献，减轻图书馆员采访编目的负担。
+英文文献的《中图法》自动分类、相似文献智能推荐小程序。帮助中国图书馆更方便地整理、管理英文图书文献，减轻图书馆员采访编目的负担。
 
-![英文文献自动分类小程序](https://github.com/JiangYanting/English_books_classification_Program/blob/main/01.png)
+![英文文献自动分类小程序1](https://github.com/JiangYanting/English_books_classification_Program/blob/main/00.png)
+
+![英文文献自动分类小程序2](https://github.com/JiangYanting/English_books_classification_Program/blob/main/02.png)
+
+![英文文献自动分类小程序3](https://github.com/JiangYanting/English_books_classification_Program/blob/main/03.png)
 
 
 # 1. 基于Fasttext的英文图书文献分类小程序（已打包为exe小程序，可在Windows环境下直接下载使用）
