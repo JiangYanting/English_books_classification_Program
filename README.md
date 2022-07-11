@@ -5,7 +5,7 @@
 
 > 蒋彦廷,吴钰洁.英文文献的《中图法》分类号自动标注研究——基于文本增强与类目映射策略[J].数字图书馆论坛,2022(05):39-46.
 
-> Jiang Yanting, Wu Yujie. Research on Automatic Chinese Library Classification Labeling for English Literature based on Text Data Augmentation and Classification Mapping Strategies[J]. Digital Library Forum, 数字图书馆论坛,2022(05):39-46.
+> Jiang Yanting, Wu Yujie. Research on Automatic Chinese Library Classification Labeling for English Literature based on Text Data Augmentation and Classification Mapping Strategies[J]. Digital Library Forum, 2022(05):39-46.
 
 ![英文文献自动分类小程序1](https://github.com/JiangYanting/English_books_classification_Program/blob/main/00.png)
 
